@@ -1,12 +1,14 @@
 body {
-  background-image: url('images\abstract.jpg');
+  background-color: #699D9D;
+  background-image: url(images\abstract.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-    padding-left: 15px;
+  padding-left: 5px;
   }
 
-  h1 a {
+  h1, h2 {
     color: #FCA205;
     font-family: 'Lobster';
+    font-size: 50px;
 }
